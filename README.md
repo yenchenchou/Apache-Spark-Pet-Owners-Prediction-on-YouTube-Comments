@@ -44,7 +44,7 @@ The goal is trying to identify whether the user is the owner of dogs or cat thro
 Still, we need to get some insights into the data so that we can make strategies from these insights with the assistant with the predictive model.
 1. See if people who mention a dog or cat are more likely to have them.
 I did this analysis that if this statement holds, then people who talk about pets and yet to have them are more likely to own pets in the future. We can target them as potential audience.
-2. How many comments do pets owners leave in general
+2. How many comments do pets owners leave in general.
 I wanted to know if there is a chance for me to segment users with different activeness
 3. Top creators that have most viewers that are pet owners
 I wanted to find out famous channels so that Youtube can set Ads according to the audience
@@ -56,4 +56,4 @@ I wanted to find out famous channels so that Youtube can set Ads according to th
   
   
 ## Result
-I had 88% of accuracy the 89% recall on the Logistic Regression. Here I emphasized more on the recall since the goal is to identify the pets owners as possible. After that, I could make sure that the three points I made on the insights could be made into practice.
+I had 88% of accuracy the 89% recall on the Logistic Regression. Here I emphasized more on the recall since the goal is to identify the pets owners as possible. With the ability to predict pets onwers, the statements I made could be put those business strategy into practice.
