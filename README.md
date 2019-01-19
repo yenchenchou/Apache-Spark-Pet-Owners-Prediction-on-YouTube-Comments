@@ -43,7 +43,7 @@ The goal is trying to identify whether the user is the owner of dogs or cat thro
 #### 3. Get insights of Data
 Still, we need to get some insights into the data so that we can make strategies from these insights with the assistant with the predictive model.
 1. See if people who mention a dog or cat are more likely to have them.
-I did this analysis that if this statement holds, then people who talk about pets and yet to have pets are the ones to own pets as well in them, and we can target them as potential audience.
+I did this analysis that if this statement holds, then people who talk about pets and yet to have them are more likely to own pets in the future. We can target them as potential audience.
 2. How many comments do pets owners leave in general
 I wanted to know if there is a chance for me to segment users with different activeness
 3. Top creators that have most viewers that are pet owners
