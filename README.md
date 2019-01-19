@@ -38,7 +38,7 @@ The goal is trying to identify whether the user is the owner of dogs or cat thro
 #### 2. Data preprocessing building classifier
 1. Create a label(Y). Find users who own dogs or cats. In my perspective, people who have pets are more likely to say something involving these three elements: title + the number of pets + the type of their pet. For example, (I/My/Our) + (a/2/3/one) + (dog/cat). Hence, I assigned comments with this combination as dog or cats owners. I dealt with missing values later because the labeling step does not affect by the missing values and the code will be clearer if I put into further steps.
 2. Data preprocessing: Now, I removed the missing values tokenized the comments, and remove stop words so that I could fit the word lists into Word2Vec 
-3. Word2Vec transformation: I transformed the word lists to vectors with setVectorSize of 256. The number 256 is because just by other professional's experience and number with the power of 2 is easy for the algorithm to compute.
+3. Word2Vec transformation: I transformed the word lists to vectors with set VectorSize of 256. The number 256 is because just by other professional's experience and number with the power of 2 is easy for the algorithm to compute.
 
 #### 3. Get insights of Data
 Still, we need to get some insights into the data so that we can make strategies from these insights with the assistant with the predictive model.
